@@ -3,12 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fontsource/roboto": "^5.0.14",
+    "@fontsource/suse": "^5.0.1",
+    "@react-three/drei": "^9.111.5",
+    "@react-three/fiber": "^8.17.6",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "clsx": "^2.1.1",
+    "file-loader": "^6.2.0",
+    "firebase": "^10.13.1",
+    "framer-motion": "^11.3.31",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "tailwind-merge": "^2.5.2",
+    "three": "^0.168.0",
+    "three-globe": "^2.31.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
